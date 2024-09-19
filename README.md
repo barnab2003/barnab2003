@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Barnab</h1>
+
 - 🔭 I’m currently persuing my bachelor's degree in computer science
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -7,7 +8,7 @@
 
 <h3 align="left">Let's connect!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/barnab barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barnab barman" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/barnab-barman-b79845280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barnab barman" height="30" width="40" /></a>
 <a href="https://kaggle.com/barnabbarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="barnabbarman" height="30" width="40" /></a>
 <a href="https://instagram.com/brnb.95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brnb.95" height="30" width="40" /></a>
 </p>
